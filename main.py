@@ -8,3 +8,5 @@ print('John is a gay!!!!!!')
 print('Brian is a dog')
 print('Lois and Peter are couple')
 print('Quagmire and Peter are couple')
+print('John and Peter are couple')
+
